@@ -1,0 +1,3 @@
+﻿  Algos3.cpp
+C:\Users\overw\OneDrive\Рабочий стол\Progs\Algos3\Algos3.cpp(58,29): warning C4353: нестандартное расширение: константа 0 в качестве выражения функции.  Следует заменить на подставляемую функцию "__noop"
+  Algos3.vcxproj -> C:\Users\overw\OneDrive\Рабочий стол\Progs\Algos3\x64\Debug\Algos3.exe
